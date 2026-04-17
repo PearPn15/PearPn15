@@ -1,8 +1,21 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Nam%20Le%20Phuong&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 👋 Hi, I'm Nam Le Phuong
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=00F7FF\&lines=AI+Engineer;LLM+Developer;RAG+Builder;Automation+Enthusiast)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Developer;RAG+Builder;Automation+Enthusiast" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pearpn52\&label=Profile%20views\&color=0e75b6\&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pearpn52&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/pearpn52?label=Followers&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
 
 🚀 AI Engineer | LLM | RAG | Automation
 📍 Vietnam
@@ -35,3 +48,7 @@ I am an AI-focused developer with strong foundations in algorithmic thinking and
 ---
 
 ⭐️ Always building, always learning.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer" />
+</p>
