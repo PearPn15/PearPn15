@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Nam Le
+# 👋 Hi, I'm Nam Le Phuong
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25\&duration=3000\&color=00F7FF\&lines=AI+Engineer;LLM+Developer;RAG+Builder;Automation+Enthusiast)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pearpn52\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 🚀 AI Engineer | LLM | RAG | Automation
 📍 Vietnam
@@ -23,24 +27,6 @@ I am an AI-focused developer with strong foundations in algorithmic thinking and
   → Competed in an international programming contest environment
 
 ---
-
-## 🛠 Tech Stack
-
-* **Languages:** Python, C++
-* **AI/ML:** PyTorch, Transformers, LLMs
-* **Frameworks:** LangChain, FastAPI
-* **Tools:** Docker, Git, Linux
-
----
-
-## 🚀 Featured Projects
-
-* 🔥 CoT Generation Pipeline (Large-scale reasoning data generation)
-* 🤖 RAG Chatbot for Enterprise
-* 🎬 AI Video Automation System
-
----
-
 
 ## 📫 Contact
 
